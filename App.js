@@ -25,7 +25,7 @@ export default function App() {
 		  </View>
 		  
 		  <View style={styles.bloco}>
-			  <Text style={styles.label}>Idade:</Text>
+			  <Text style={styles.label}>Ano nascimento:</Text>
 			  <TextInput
 				  style={styles.input}
 				  value={idade}
